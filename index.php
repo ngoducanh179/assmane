@@ -3,6 +3,7 @@
   <title>LAB 1</title>
  </head>
  <body>
+	 <section>
  	<style type="text/css" media="screen">
  		
  		#Mot{
